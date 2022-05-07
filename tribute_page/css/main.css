@@ -14,16 +14,18 @@ body {
     max-width: 1350px;
     margin-left: auto;
     margin-right: auto;
+    background-color: hsl(18, 28%, 16%);
 }
 
 .main {
     padding: 10px;
     margin: 10px 10px;
     text-align: center;
-    background-color: hsl(251, 7%, 93%);
+    background-color: hsl(251, 7%, 97%);
     border-radius: 4px;
     min-height: 100vh;
     position: relative;
+    border: none;
 }
 
 .main h1 {
