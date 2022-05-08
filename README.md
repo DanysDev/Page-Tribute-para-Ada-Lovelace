@@ -5,7 +5,7 @@
 
 ## Pages
 
-    https://danysdev.github.io/Page-Tribute-para-Ada-Lovelace/
+    Vea el proyecto aqui: [https://danysdev.github.io/Page-Tribute-para-Ada-Lovelace/]
 
 
 ## Tech
