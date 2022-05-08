@@ -3,10 +3,6 @@
 
 ![captura de pantalla de la pagina](https://github.com/DanysDev/Page-Tribute-para-Ada-Lovelace/blob/master/tribute_page/capturas/page_tribute_ada_lovelace.png)
 
-## Pages
-
-    Vea el proyecto aqui: [https://danysdev.github.io/Page-Tribute-para-Ada-Lovelace/]
-
 
 ## Tech
 
